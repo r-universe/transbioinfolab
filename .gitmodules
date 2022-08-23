@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MethReg"]
+	path = MethReg
+	url = https://github.com/transbioinfolab/methreg
+	shallow = true
+	registered = true
+[submodule "rnaEditr"]
+	path = rnaEditr
+	url = https://github.com/transbioinfolab/rnaeditr
+	shallow = true
+	registered = true
