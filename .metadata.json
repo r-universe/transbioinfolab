@@ -1,5 +1,11 @@
 [
   {
     "package": "coMethDMR"
+  },
+  {
+    "package": "MethReg"
+  },
+  {
+    "package": "rnaEditr"
   }
 ]

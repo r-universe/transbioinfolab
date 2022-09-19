@@ -8,3 +8,13 @@
 	url = https://github.com/transbioinfolab/comethdmr
 	shallow = true
 	registered = true
+[submodule "MethReg"]
+	path = MethReg
+	url = https://github.com/transbioinfolab/methreg
+	shallow = true
+	registered = true
+[submodule "rnaEditr"]
+	path = rnaEditr
+	url = https://github.com/transbioinfolab/rnaeditr
+	shallow = true
+	registered = true
