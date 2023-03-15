@@ -1,11 +1,11 @@
 [
   {
-    "package": "rnaEditr"
-  },
-  {
     "package": "coMethDMR"
   },
   {
     "package": "MethReg"
+  },
+  {
+    "package": "rnaEditr"
   }
 ]
