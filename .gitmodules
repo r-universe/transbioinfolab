@@ -8,6 +8,9 @@
 [submodule "coMethDMR"]
 	path = coMethDMR
 	url = https://github.com/transbioinfolab/comethdmr
+[submodule "ranktreeEnsemble"]
+	path = ranktreeEnsemble
+	url = https://github.com/transbioinfolab/ranktreeensemble
 [submodule "rnaEditr"]
 	path = rnaEditr
 	url = https://github.com/transbioinfolab/rnaeditr
