@@ -2,15 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "MethReg"]
-	path = MethReg
-	url = https://github.com/transbioinfolab/methreg
-[submodule "coMethDMR"]
-	path = coMethDMR
-	url = https://github.com/transbioinfolab/comethdmr
 [submodule "ranktreeEnsemble"]
 	path = ranktreeEnsemble
 	url = https://github.com/transbioinfolab/ranktreeensemble
-[submodule "rnaEditr"]
-	path = rnaEditr
-	url = https://github.com/transbioinfolab/rnaeditr
